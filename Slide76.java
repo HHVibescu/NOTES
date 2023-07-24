@@ -2,6 +2,8 @@ package exo;
 
 import java.util.Scanner;
 
+//comment
+
 public class LetterNumberSpecialChar {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
