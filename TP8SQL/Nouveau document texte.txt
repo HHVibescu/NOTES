@@ -1,0 +1,5 @@
+-CREATE TABLE correspond au csv()();
+-ALTER TABLE correspond au csv ADD COLUMN correspond au csv
+-UPDATE table(colonne) SET categorie = bonne caté WHERE catégorie pas bonne;
+-
+-SELECT name, price FROM product WHERE categ = ;
